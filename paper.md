@@ -25,3 +25,6 @@ Pushing to github now, how exciting
 
 # Figures
 Figures go in their own section in a draft paper 
+
+# Conclusions
+I think I understand, will go over the resources a few more times though
