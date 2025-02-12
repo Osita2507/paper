@@ -15,3 +15,8 @@ The dangers of oviod structures atop walls must be properly considered.
 
 # Simulations
 Assessing the rotational velocity of large-scale public vehicles. O. Bus 2022
+
+# Methods
+We take nursery rhymes and add random sentences to this document. 
+To keep myself entertained. 
+
