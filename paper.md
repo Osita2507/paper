@@ -2,7 +2,8 @@
 Mary had a larger lamb
 
 # Author 
-Ellie Appleton and F.Tales
+Ellie Appleton CRUK
+F.Tales WhimsyLand
 
 # Introduction
 This little piggy went to market
