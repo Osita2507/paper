@@ -22,3 +22,6 @@ To keep myself entertained.
 
 # Results
 Pushing to github now, how exciting
+
+# Figures
+Figures go in their own section in a draft paper 
