@@ -2,7 +2,7 @@
 Mary had a little lamb
 
 # Author 
-Ellie Appleton
+Ellie Appleton and F.Tales
 
 # Introduction
 This little piggy went to market
