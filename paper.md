@@ -2,7 +2,8 @@
 Mary had a larger lamb
 
 # Author 
-Ellie Appleton and F.Tales
+F.Tales
+E Appleton
 
 # Introduction
 This little piggy went to market
